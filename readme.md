@@ -3,7 +3,7 @@
 # Introduction
 
 This library can be used to implement bit-banged SWD bus master. HW must have
-access to two GPIO pins.
+access to two GPIO pins. Tested on ARM cortex M0 and M4
 
 # Features
 
